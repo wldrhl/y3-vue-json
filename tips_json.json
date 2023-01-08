@@ -2,22 +2,22 @@
   "articles":[
 {
       "title": "Have Regular Exams",
-      "imgUrl": "dog_img/dog1.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/wldrhl/y3-vue-json/gh-pages/pet_vet.jpg",
       "fun_fact": "Regular exams are the single most important way to keep pets healthy. Annual vet visits should touch on nutrition and weight control, as well as cover recommended vaccinations, parasite control, dental exam, and health screenings."
    },
    {
        "title": "Spay and Neuter Your Pets",
-     "imgUrl": "dog_img/dog2.jpg",
+     "imgUrl": "https://raw.githubusercontent.com/wldrhl/y3-vue-json/gh-pages/pet_cone.jpg",
      "fun_fact": "Sterilizing your pet prevents a host of health problems, including complicated pregnancies, and reduces the number of homeless animals."
    },
    {
       "title": "Pet Identification",
-    "imgUrl":"dog_img/dog3.jpg",
+    "imgUrl":"https://raw.githubusercontent.com/wldrhl/y3-vue-json/gh-pages/pet_collar.jpg",
       "fun_fact": "Start with the basics: a safe collar, and a tag that contains all of your contact information. In addition to an ID tag, microchipping your pet is advisable, because there's always the chance a collar will fall off."
    },
    {
     "title": "Healthy Food",
-  "imgUrl":"dog_img/dog4.jpeg",
+  "imgUrl":"https://raw.githubusercontent.com/wldrhl/y3-vue-json/gh-pages/pet_food.jpg",
   "fun_fact": "The right pet food will enrich your best buddy's life, providing them with the energy and nutrients they need."
  }
         ]
